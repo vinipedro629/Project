@@ -5,54 +5,63 @@
         <dataFim>20/04</dataFim>
         <signoNome>Áries</signoNome>
         <descricao>Pessoas de Áries são corajosas, determinadas e impulsivas.</descricao>
+        <imagem>assets/imgs/aries.png</imagem>
     </signo>
     <signo>
         <dataInicio>21/04</dataInicio>
         <dataFim>20/05</dataFim>
         <signoNome>Touro</signoNome>
         <descricao>Práticos, determinados e amantes do conforto.</descricao>
+        <imagem>assets/imgs/touro.png</imagem>
     </signo>
     <signo>
         <dataInicio>21/05</dataInicio>
         <dataFim>20/06</dataFim>
         <signoNome>Gêmeos</signoNome>
         <descricao>Comunicativos, curiosos e versáteis.</descricao>
+        <imagem>assets/imgs/gemeos.png</imagem>
     </signo>
     <signo>
         <dataInicio>21/06</dataInicio>
         <dataFim>22/07</dataFim>
         <signoNome>Câncer</signoNome>
         <descricao>Emotivos, sensíveis e protetores.</descricao>
+        <imagem>assets/imgs/cancer.png</imagem>
     </signo>
     <signo>
         <dataInicio>23/07</dataInicio>
         <dataFim>22/08</dataFim>
         <signoNome>Leão</signoNome>
         <descricao>Orgulhosos, criativos e carismáticos.</descricao>
+        <imagem>assets/imgs/leao.png</imagem>
     </signo>
     <signo>
         <dataInicio>23/08</dataInicio>
         <dataFim>22/09</dataFim>
         <signoNome>Virgem</signoNome>
         <descricao>Detalhistas, práticos e analíticos.</descricao>
+        <imagem>assets/imgs/virgem.png</imagem>
     </signo>
     <signo>
         <dataInicio>23/09</dataInicio>
         <dataFim>22/10</dataFim>
         <signoNome>Libra</signoNome>
         <descricao>Equilibrados, sociáveis e justos.</descricao>
+        <imagem>assets/imgs/libra.png</imagem>
     </signo>
     <signo>
         <dataInicio>23/10</dataInicio>
         <dataFim>21/11</dataFim>
         <signoNome>Escorpião</signoNome>
         <descricao>Intensos, determinados e misteriosos.</descricao>
+        <imagem>assets/imgs/escorpiao.png</imagem>
     </signo>
     <signo>
         <dataInicio>22/11</dataInicio>
         <dataFim>21/12</dataFim>
         <signoNome>Sagitário</signoNome>
         <descricao>Aventureiros, otimistas e francos.</descricao>
+        <imagem>assets/imgs/sagitario.png</imagem>
     </signo>
     <signo>
         <dataInicio>22/12</dataInicio>

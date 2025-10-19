@@ -37,15 +37,24 @@
 
         // 4. Exibir resultado
         if ($signo_encontrado) {
-            echo "<h2>Seu signo é <strong>{$signo_encontrado->signoNome}</strong></h2>";
-            echo "<p class='mt-3'>{$signo_encontrado->descricao}</p>";
+            $nome = $signo_encontrado->signoNome;
+            $desc = $signo_encontrado->descricao;
+            $img = $signo_encontrado->imagem;
+
+            echo "<div class='text-center'>";
+            echo "<h2>Seu signo é <strong>$nome</strong></h2>";
+            echo "<img src='$img' alt='$nome' class='img-fluid my-3' style='max-width:200px;'>";
+            echo "<p class='mt-2'>$desc</p>";
+            echo "</div>";
         } else {
             echo "<p>Não foi possível determinar o signo.</p>";
         }
+
         ?>
         <a href="index.php" class="btn btn-secondary mt-4">Voltar</a>
     </div>
 </div>
 
 </body>
+
 </html>
